@@ -1,3 +1,4 @@
+````markdown
 <div align="center">
   <img src="https://raw.githubusercontent.com/byvira/byvira/main/comp.jpeg" alt="VIRA Studio" width="100%" />
 </div>
@@ -5,22 +6,15 @@
 <br />
 
 <div align="center">
-```
-V I R A  S T U D I O
-```
 
-</div>
+&nbsp;&nbsp;`V`&nbsp;&nbsp;`I`&nbsp;&nbsp;`R`&nbsp;&nbsp;`A`&nbsp;&nbsp;&nbsp;&nbsp;`S`&nbsp;&nbsp;`T`&nbsp;&nbsp;`U`&nbsp;&nbsp;`D`&nbsp;&nbsp;`I`&nbsp;&nbsp;`O`
 
-<div align="center">
-  <sub>DESIGN · DEVELOPMENT · STRATEGY</sub>
-</div>
+<sub>DESIGN &nbsp;·&nbsp; DEVELOPMENT &nbsp;·&nbsp; STRATEGY</sub>
 
 <br />
 
-<div align="center">
-
-We build digital products that are<br />
-**precise, performant, and impossible to ignore.**
+*We build digital products that are*
+### precise, performant, and impossible to ignore.
 
 </div>
 
@@ -29,7 +23,8 @@ We build digital products that are<br />
 ---
 
 <br />
-```
+
+```ts
 // WHO WE ARE
 
   Founder-led studio based in Chennai.
@@ -42,13 +37,14 @@ We build digital products that are<br />
 ---
 
 <br />
-```
+
+```ts
 // WHAT WE BUILD
 
-  01  PRODUCT DESIGN        UX/UI · Design Systems · Interaction
-  02  WEB DEVELOPMENT       Next.js · React · Full-Stack
-  03  BRAND IDENTITY        Visual Language · Motion · Campaigns  
-  04  STRATEGY              Roadmapping · Product Thinking · GTM
+  01  PRODUCT DESIGN     →   UX/UI · Design Systems · Interaction
+  02  WEB DEVELOPMENT    →   Next.js · React · Full-Stack
+  03  BRAND IDENTITY     →   Visual Language · Motion · Campaigns
+  04  STRATEGY           →   Roadmapping · Product Thinking · GTM
 ```
 
 <br />
@@ -56,11 +52,12 @@ We build digital products that are<br />
 ---
 
 <br />
-```
+
+```ts
 // HOW WE WORK
 
   STRATEGY  ──▶  DESIGN  ──▶  BUILD  ──▶  SHIP  ──▶  ITERATE
-  
+
   First draft in 48h.
   Built for B2B platforms and B2C products.
 ```
@@ -70,7 +67,8 @@ We build digital products that are<br />
 ---
 
 <br />
-```
+
+```ts
 // STACK
 
   LANGUAGE    TypeScript
@@ -78,7 +76,7 @@ We build digital products that are<br />
   STYLING     Tailwind CSS
   ANIMATION   Framer Motion
   DESIGN      Figma
-  DEPLOY      Vercel
+  DEPLOY      Vercel · GitHub Actions
 ```
 
 <br />
@@ -86,12 +84,13 @@ We build digital products that are<br />
 ---
 
 <br />
-```
+
+```ts
 // WORK WITH US
 
-  WEB     virastudio.com
-  MAIL    hello@virastudio.com
-  X       @byvira
+  WEB     →   virastudio.com
+  MAIL    →   hello@virastudio.com
+  X       →   x.com/byvira
 ```
 
 <br />
@@ -103,3 +102,7 @@ We build digital products that are<br />
 <div align="center">
   <sup>© 2026 VIRA Studio &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; Founder-led. Built with intent.</sup>
 </div>
+````
+
+---
+
