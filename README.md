@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BANNER_URL_HERE" alt="VIRA Studio" width="100%" />
+  <img src="https://raw.githubusercontent.com/byvira/byvira/main/comp.jpeg" alt="VIRA Studio" width="100%" />
 </div>
 
 <br />
