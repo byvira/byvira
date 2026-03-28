@@ -1,0 +1,28 @@
+<svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="160" fill="#0D1117"/>
+  <rect x="0" y="159" width="860" height="1" fill="#21262d"/>
+
+  <!-- Left accent line -->
+  <rect x="40" y="32" width="2" height="96" fill="#E8FF47" opacity="0.6"/>
+
+  <!-- Section label -->
+  <text x="56" y="48" font-family="'Courier New', monospace" font-size="9" fill="#444d56" letter-spacing="3">// WHO WE ARE</text>
+
+  <!-- Main copy -->
+  <text x="56" y="76" font-family="'Courier New', monospace" font-size="13" fill="#e6edf3">Founder-led studio based in Chennai.</text>
+  <text x="56" y="98" font-family="'Courier New', monospace" font-size="13" fill="#E8FF47" font-weight="700">No account managers. No handoffs. No bloat.</text>
+  <text x="56" y="120" font-family="'Courier New', monospace" font-size="13" fill="#8b949e">You work directly with the person building your product.</text>
+
+  <!-- Badges -->
+  <rect x="56" y="136" width="40" height="16" fill="none" stroke="#E8FF47" stroke-width="0.5" opacity="0.4"/>
+  <text x="76" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#E8FF47" letter-spacing="1">B2B</text>
+
+  <rect x="104" y="136" width="40" height="16" fill="none" stroke="#E8FF47" stroke-width="0.5" opacity="0.4"/>
+  <text x="124" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#E8FF47" letter-spacing="1">B2C</text>
+
+  <rect x="152" y="136" width="100" height="16" fill="none" stroke="#E8FF47" stroke-width="0.5" opacity="0.4"/>
+  <text x="202" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#E8FF47" letter-spacing="1">FOUNDER-LED</text>
+
+  <rect x="260" y="136" width="120" height="16" fill="none" stroke="#E8FF47" stroke-width="0.5" opacity="0.4"/>
+  <text x="320" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#E8FF47" letter-spacing="1">48H FIRST DRAFT</text>
+</svg>
