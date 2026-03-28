@@ -1,0 +1,25 @@
+<svg width="860" height="120" viewBox="0 0 860 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="120" fill="#0A0A0A"/>
+
+  <!-- Section label -->
+  <text x="40" y="36" font-family="'Courier New', monospace" font-size="9" fill="#444d56" letter-spacing="3">// WORK WITH US</text>
+
+  <!-- Grid lines -->
+  <line x1="320" y1="52" x2="320" y2="100" stroke="#21262d" stroke-width="1"/>
+  <line x1="600" y1="52" x2="600" y2="100" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Web -->
+  <text x="56" y="68" font-family="'Courier New', monospace" font-size="9" fill="#444d56" letter-spacing="2">WEB</text>
+  <text x="56" y="88" font-family="'Courier New', monospace" font-size="13" fill="#E8FF47">virastudio.com</text>
+
+  <!-- Mail -->
+  <text x="336" y="68" font-family="'Courier New', monospace" font-size="9" fill="#444d56" letter-spacing="2">MAIL</text>
+  <text x="336" y="88" font-family="'Courier New', monospace" font-size="13" fill="#E8FF47">hello@virastudio.com</text>
+
+  <!-- X -->
+  <text x="616" y="68" font-family="'Courier New', monospace" font-size="9" fill="#444d56" letter-spacing="2">X / TWITTER</text>
+  <text x="616" y="88" font-family="'Courier New', monospace" font-size="13" fill="#E8FF47">@byvira</text>
+
+  <!-- Footer line -->
+  <line x1="40" y1="106" x2="820" y2="106" stroke="#21262d" stroke-width="0.5"/>
+</svg>
